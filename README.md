@@ -32,4 +32,4 @@ You need to install `riscv32-toolchain` and `elf2hex` on your Linux or WSL machi
 ### Simulation
 At this stage, you are ready to simulate, just see the output in the Vivado console, it will show the final memory status. (do not delete `program.mem` file when you simulate)
 ## Reference
-The CPU frame, which is a single-cycle one, is from. The stream buffer part is written by my one of my partners Yifan Shen.
+The CPU frame, which is a single-cycle one, is from [project-v-open-beta](https://bitbucket.org/jieltan/project-v-open-beta/src/master/). The stream buffer part is written by my one of my partners Yifan Shen ([limlimg](https://github.com/limlimg) on github).
